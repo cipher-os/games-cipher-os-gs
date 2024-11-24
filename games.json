@@ -1,16 +1,18 @@
-{
-  "apps": [
-    {
-      "name": "App 1",
-      "description": "Descripción de la aplicación 1",
-      "install_url": "https://example.com/app1-installer",
-      "image": "https://example.com/app1-image.png"
-    },
-    {
-      "name": "App 2",
-      "description": "Descripción de la aplicación 2",
-      "install_url": "https://example.com/app2-installer",
-      "image": "https://example.com/app2-image.png"
-    }
-  ]
-}
+[
+  {
+    "id": "app1",
+    "name": "Aplicación 1",
+    "logo": "app1_logo.png",
+    "description": "Descripción de la Aplicación 1",
+    "price": "Gratis",
+    "installCommand": "sudo apt install app1"
+  },
+  {
+    "id": "app2",
+    "name": "Aplicación 2",
+    "logo": "app2_logo.png",
+    "description": "Descripción de la Aplicación 2",
+    "price": "$5",
+    "installCommand": "sudo apt install app2"
+  }
+]
