@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "App 1",
+      "description": "Descripción de la aplicación 1",
+      "install_url": "https://example.com/app1-installer",
+      "image": "https://example.com/app1-image.png"
+    },
+    {
+      "name": "App 2",
+      "description": "Descripción de la aplicación 2",
+      "install_url": "https://example.com/app2-installer",
+      "image": "https://example.com/app2-image.png"
+    }
+  ]
+}
