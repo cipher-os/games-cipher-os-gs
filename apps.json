@@ -1,10 +1,11 @@
 [
     {
-        "name": "App 1",
-        "description": "Esta es una aplicación increíble para jugar.",
+        "name": "Hydra launcher",
+        "description": "Hidra es a Lanzador de Juegos con su propio embebido Cliente BitTorrent y a raspador de repack autogestionado.
+El lanzador está escrito en TypeScript (Electron) y Python, que maneja el sistema de torrents mediante el uso de libtorrent..",
         "size": "50 MB",
-        "url": "https://example.com/app1.deb",
-        "icon_url": "https://example.com/icons/app1.png"
+        "url": "https://github.com/hydralauncher/hydra/releases/download/v3.0.2/hydralauncher_3.0.2_amd64.deb",
+        "icon_url": "/img/hydra.png"
     },
     {
         "name": "App 2",
