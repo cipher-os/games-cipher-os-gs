@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Aplicación 1",
+    "description": "Esta es la descripción de la Aplicación 1. Es una herramienta útil para gestionar archivos.",
+    "url": "https://example.com/descargar/aplicacion1.deb"
+  },
+  {
+    "name": "Aplicación 2",
+    "description": "Aplicación 2 es una excelente herramienta para desarrolladores.",
+    "url": "https://example.com/descargar/aplicacion2.deb"
+  },
+  {
+    "name": "Aplicación 3",
+    "description": "Esta aplicación es una utilidad para administrar redes y conexiones.",
+    "url": "https://example.com/descargar/aplicacion3.deb"
+  }
+]
