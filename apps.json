@@ -2,16 +2,22 @@
   {
     "name": "Aplicación 1",
     "description": "Esta es la descripción de la Aplicación 1. Es una herramienta útil para gestionar archivos.",
-    "url": "https://example.com/descargar/aplicacion1.deb"
+    "url": "https://example.com/descargar/aplicacion1.deb",
+    "icon_url": "https://example.com/icons/aplicacion1.png",
+    "size": "15 MB"
   },
   {
     "name": "Aplicación 2",
     "description": "Aplicación 2 es una excelente herramienta para desarrolladores.",
-    "url": "https://example.com/descargar/aplicacion2.deb"
+    "url": "https://example.com/descargar/aplicacion2.deb",
+    "icon_url": "https://example.com/icons/aplicacion2.png",
+    "size": "25 MB"
   },
   {
     "name": "Aplicación 3",
     "description": "Esta aplicación es una utilidad para administrar redes y conexiones.",
-    "url": "https://example.com/descargar/aplicacion3.deb"
+    "url": "https://example.com/descargar/aplicacion3.deb",
+    "icon_url": "https://example.com/icons/aplicacion3.png",
+    "size": "10 MB"
   }
 ]
