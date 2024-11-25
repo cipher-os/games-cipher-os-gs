@@ -1,32 +1,24 @@
 [
-  {
-    "name": "Aplicación 1",
-    "description": "Esta es la descripción de la Aplicación 1. Es una herramienta útil para gestionar archivos.",
-    "url": "https://example.com/descargar/aplicacion1.deb",
-    "size": "15 MB"
-  },
-  {
-    "name": "Aplicación 2",
-    "description": "Aplicación 2 es una excelente herramienta para desarrolladores.",
-    "url": "https://example.com/descargar/aplicacion2.deb",
-    "size": "25 MB"
-  },
-  {
-    "name": "Aplicación 3",
-    "description": "Esta aplicación es una utilidad para administrar redes y conexiones.",
-    "url": "https://example.com/descargar/aplicacion3.deb",
-    "size": "10 MB"
-  },
-  {
-    "name": "Aplicación 4",
-    "description": "Aplicación 4 te permite gestionar tus tareas diarias de forma eficiente.",
-    "url": "https://example.com/descargar/aplicacion4.deb",
-    "size": "20 MB"
-  },
-  {
-    "name": "Aplicación 5",
-    "description": "Esta es una aplicación para editar imágenes con una interfaz intuitiva.",
-    "url": "https://example.com/descargar/aplicacion5.deb",
-    "size": "35 MB"
-  }
+    {
+        "name": "App 1",
+        "description": "Esta es una aplicación increíble para jugar.",
+        "size": "50 MB",
+        "url": "https://example.com/app1.deb",
+        "icon_url": "https://example.com/icons/app1.png"
+    },
+    {
+        "name": "App 2",
+        "description": "Una aplicación muy útil para organizar tareas.",
+        "size": "30 MB",
+        "url": "https://example.com/app2.deb",
+        "icon_url": "https://example.com/icons/app2.png"
+    },
+    {
+        "name": "App 3",
+        "description": "Una herramienta potente para programadores.",
+        "size": "150 MB",
+        "url": "https://example.com/app3.deb",
+        "icon_url": "https://example.com/icons/app3.png"
+    }
 ]
+
